@@ -1,0 +1,10 @@
+Description :
+In this game you have to answer the given 
+multiple choice.
+The questions include aptitude tests multiple
+ choice questions.
+
+Controls : 
+You have to select one of the four choices
+and press the NEXT button to go to the 
+next question.

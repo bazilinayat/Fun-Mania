@@ -1,0 +1,11 @@
+Description :
+This game is based on the famous game called 
+DX Ball.Here you have to break the bricks
+that are given on top of the screen and 
+take care the ball is not dropping below the
+screen o the game will be over.
+
+Controls : 
+RIGHT ARROW key to make the slider move
+right.
+LEFT ARROW key to make the slider move left.

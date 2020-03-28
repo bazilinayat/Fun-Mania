@@ -1,0 +1,20 @@
+Description :
+Here you have to just eat the candy and make
+yourself as big as possible without eating
+yourself.
+In the two player option you have to eat the
+candy and get bigger than the other snake
+and then you can eat him to win the game.
+
+Controls :
+First Snake :
+UP ARROW key to move up.
+LEFT ARROW key to move left.
+DOWN ARROW key to move down.
+RIGHT ARROW key to move right.
+
+Second Snake :
+W key to move up.
+D key to move right.
+S key to move down.
+A key o move left.

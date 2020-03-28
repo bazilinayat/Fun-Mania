@@ -1,0 +1,11 @@
+Description :
+In this game you have to guess the word given
+in the '*' string.
+
+Controls :
+LEFT MOUSE click on the alphabets given
+below to make your choice.
+For every wrong choice a part of a
+stickman's body is made.
+Your goal is to guess the word without 
+letting the man get hanged.

@@ -1,0 +1,8 @@
+Description :
+This game is based on the Android game 
+'Don't Touch The White Tile'.Here you have
+to touch the black tiles to go up and 
+try not touching the white tiles.
+
+Controls :
+LEFT MOUSE click to touch the tiles.

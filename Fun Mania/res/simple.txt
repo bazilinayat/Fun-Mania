@@ -1,0 +1,11 @@
+Description :
+This game is made on the basis of a game 
+called World's  Hardest Game.Your goal 
+is to make yourself to the green area on 
+the screen.
+
+Controls :
+LEFT ARROW key to move left.
+RIGHT ARROW key to move right.
+UP ARROW key to move up.
+DOWN ARROW key to move down.

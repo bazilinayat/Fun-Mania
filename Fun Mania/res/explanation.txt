@@ -1,0 +1,47 @@
+Option 1 : C
+Option 2: C
+Option 3: D
+Option 4: D
+Option 5: D
+
+Option 6: A
+Option 7: A
+Option 8: C
+Option 9: D
+Option 10: C
+
+Option 11: D
+Option 12: C
+Option 13: D
+Option 14: A
+Option 15: C
+
+Option 16: C
+Option 17: A
+Option 18: A
+Option 19: C
+Option 20: B
+
+Option 21: B
+Option 22: B
+Option 23: B
+Option 24: A
+Option 25: D
+
+Option 26: B
+Option 27: D
+Option 28: D
+Option 29: B
+Option 30: C
+
+Option 31: A
+Option 32: D
+Option 33: A
+Option 34: C
+Option 35: B
+
+Option 36: D
+Option 37: D
+Option 38: C
+Option 39: B
+Option 40: C

@@ -1,0 +1,40 @@
+Q1 : AZ, GT, MN, ?, YB 
+Q2 : AZ, CX, FU, ? 
+Q3 : AZ, BY, CX, ? 
+Q4 : DKY, FJW, HIU, JHS, ? 
+Q5 : ?, SIY, OEU, KAQ, GWM, CSI 
+Q6 : CMW, HRB, ?, RBL, WGQ, BLV 
+Q7 : BXJ, ETL, HPN, KLP, ? 
+Q8 : QPO, SRQ, UTS, WVU, ? 
+Q9 : JE, LH, OL, SQ, ? 
+Q10 : AD, EH, IL, ?, QT 
+Q11 : BEH, DGJ, (?), EJO, GLQ, INS, ?
+Q12 : APZLT, CQYNR, ERXPP, GSWRN, ?
+Q13 : RAP, MAP, HOT FUN, ?
+Q14 : ZBAY, JRQI, OMLN, YCBX, ?
+Q15 : CWE, FQH, RDI, ?
+Q16 : 4, 6, 9, 13, ?
+Q17 : 8, 20, 36, 56, ?
+Q18 : 11, 33, 55, 77, ?
+Q19 : 1, 8, 4, 27, 9,  ?
+Q20 : 3,6,8,16,18,?
+Q21 : 17,13,11,7,5,?
+Q22 : 9, .....18, 28, 27,21,36,14,?
+Q23 : 4,9,19,39...
+Q24 : 0,7,26,63,?
+Q25 : 3,2,7,6,11,?
+Q26 : 17,44,62,53 ......
+Q27 : 5,3,6,2,7,1,.....
+Q28 : 1,2,3,1,4,9,1,...27,?
+Q29 : 81 ,9,64 ,8,.....,12,?
+Q30 : 2,6,12,20,30
+Q31 : If LIGHT is coded as GILTH, find the code for RAINY.
+Q32 : If LONDON is coded as MPOEPO. What code is needed for DELHI ?
+Q33 : If GUN is coded as HVO. find the code for PEN.
+Q34 : Poles : Magnet :: ? : Battery 
+Q35 : Peace : Chaos :: Creation : ? 
+Q36 : Architect : Building :: Sculptor : ? 
+Q37 : Grain : Stock : : Stick : ? 
+Q38 : Cube is related to Square in the same way as Square is related to 
+Q39 : Bank is related to Money in the same way as Transport is related to 
+Q40 : Fan is related to Wings in the same way as Wheel is related to 

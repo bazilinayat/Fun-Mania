@@ -1,0 +1,7 @@
+Description :
+This game is like any other picture puzzle 
+game.Your goal is to complete the picture 
+by clicking on the parts of the picture.
+
+Controls :
+LEFT MOUSE click to move picture's part.
